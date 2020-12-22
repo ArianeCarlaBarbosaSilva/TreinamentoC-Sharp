@@ -1,0 +1,13 @@
+C:\Users\ariane.barbosa\Documents\Programas\Concert\Treinamento C-Sharp\CsharpOO\bin\Debug\netcoreapp3.1\CsharpOO.exe
+C:\Users\ariane.barbosa\Documents\Programas\Concert\Treinamento C-Sharp\CsharpOO\bin\Debug\netcoreapp3.1\CsharpOO.deps.json
+C:\Users\ariane.barbosa\Documents\Programas\Concert\Treinamento C-Sharp\CsharpOO\bin\Debug\netcoreapp3.1\CsharpOO.runtimeconfig.json
+C:\Users\ariane.barbosa\Documents\Programas\Concert\Treinamento C-Sharp\CsharpOO\bin\Debug\netcoreapp3.1\CsharpOO.runtimeconfig.dev.json
+C:\Users\ariane.barbosa\Documents\Programas\Concert\Treinamento C-Sharp\CsharpOO\bin\Debug\netcoreapp3.1\CsharpOO.dll
+C:\Users\ariane.barbosa\Documents\Programas\Concert\Treinamento C-Sharp\CsharpOO\bin\Debug\netcoreapp3.1\CsharpOO.pdb
+C:\Users\ariane.barbosa\Documents\Programas\Concert\Treinamento C-Sharp\CsharpOO\obj\Debug\netcoreapp3.1\CsharpOO.csprojAssemblyReference.cache
+C:\Users\ariane.barbosa\Documents\Programas\Concert\Treinamento C-Sharp\CsharpOO\obj\Debug\netcoreapp3.1\CsharpOO.AssemblyInfoInputs.cache
+C:\Users\ariane.barbosa\Documents\Programas\Concert\Treinamento C-Sharp\CsharpOO\obj\Debug\netcoreapp3.1\CsharpOO.AssemblyInfo.cs
+C:\Users\ariane.barbosa\Documents\Programas\Concert\Treinamento C-Sharp\CsharpOO\obj\Debug\netcoreapp3.1\CsharpOO.csproj.CoreCompileInputs.cache
+C:\Users\ariane.barbosa\Documents\Programas\Concert\Treinamento C-Sharp\CsharpOO\obj\Debug\netcoreapp3.1\CsharpOO.dll
+C:\Users\ariane.barbosa\Documents\Programas\Concert\Treinamento C-Sharp\CsharpOO\obj\Debug\netcoreapp3.1\CsharpOO.pdb
+C:\Users\ariane.barbosa\Documents\Programas\Concert\Treinamento C-Sharp\CsharpOO\obj\Debug\netcoreapp3.1\CsharpOO.genruntimeconfig.cache
