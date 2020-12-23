@@ -13,10 +13,18 @@ namespace VeiculosAPI.Controllers
 
     public class MotoController : ControllerBase
     {
-        [HttpGet]
-        public ActionResult<Moto> Get()
+        [HttpGet("{id}")]
+        public ActionResult<Moto> GetOne(long id)
         {
-
+            try
+            {
+                var moto = MotoDAO.GetMotos(id);
+                return Ok(moto);
+            }
+            catch (Exception e)
+            {
+                return StatusCode(StatusCodeResult.Status500InternalServerError)
+            }
         }
 
         [HttpPost]
