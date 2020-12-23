@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ariane.barbosa\\Documents\\Programas\\Concert\\Treinamento C-Sharp\\CsharpOO\\CsharpOO.csproj": {}
+    "c:\\Users\\ariane.barbosa\\Documents\\Programas\\Concert\\Treinamento C-Sharp\\CsharpOO\\CsharpOO.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ariane.barbosa\\Documents\\Programas\\Concert\\Treinamento C-Sharp\\CsharpOO\\CsharpOO.csproj": {
+    "c:\\Users\\ariane.barbosa\\Documents\\Programas\\Concert\\Treinamento C-Sharp\\CsharpOO\\CsharpOO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ariane.barbosa\\Documents\\Programas\\Concert\\Treinamento C-Sharp\\CsharpOO\\CsharpOO.csproj",
+        "projectUniqueName": "c:\\Users\\ariane.barbosa\\Documents\\Programas\\Concert\\Treinamento C-Sharp\\CsharpOO\\CsharpOO.csproj",
         "projectName": "CsharpOO",
-        "projectPath": "C:\\Users\\ariane.barbosa\\Documents\\Programas\\Concert\\Treinamento C-Sharp\\CsharpOO\\CsharpOO.csproj",
+        "projectPath": "c:\\Users\\ariane.barbosa\\Documents\\Programas\\Concert\\Treinamento C-Sharp\\CsharpOO\\CsharpOO.csproj",
         "packagesPath": "C:\\Users\\ariane.barbosa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ariane.barbosa\\Documents\\Programas\\Concert\\Treinamento C-Sharp\\CsharpOO\\obj\\",
+        "outputPath": "c:\\Users\\ariane.barbosa\\Documents\\Programas\\Concert\\Treinamento C-Sharp\\CsharpOO\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ariane.barbosa\\AppData\\Roaming\\NuGet\\NuGet.Config"
