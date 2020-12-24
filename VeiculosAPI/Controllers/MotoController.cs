@@ -13,12 +13,13 @@ namespace VeiculosAPI.Controllers
 
     public class MotoController : ControllerBase
     {
+        public MotoController()
         [HttpGet("{id}")]
         public ActionResult<Moto> GetOne(long id)
         {
             try
             {
-                var moto = MotoDAO.GetMotos(id);
+                var moto = .GetMotos(id);
                 return Ok(moto);
             }
             catch (Exception e)
